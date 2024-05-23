@@ -1,0 +1,9 @@
+function ola(name) {
+//receba a entrada do usuário e armazene no parâmetro
+  name = prompt("Digite o seu nome:")
+//crie uma variavel para o olá e o nome armazenado 
+  write = "Olá " + name;
+//exiba a expressão
+  console.log(write)
+}
+ ola(name);
