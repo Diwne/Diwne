@@ -1,4 +1,4 @@
-function ola(name) {
+function digaola(name) {
 //receba a entrada do usuário e armazene no parâmetro
   name = prompt("Digite o seu nome:")
 //crie uma variavel para o olá e o nome armazenado 
@@ -6,4 +6,4 @@ function ola(name) {
 //exiba a expressão
   console.log(write)
 }
- ola(name);
+ digaola(name);
