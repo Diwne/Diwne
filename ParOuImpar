@@ -1,0 +1,11 @@
+function ParOuImpar() {
+  number = prompt("Digite um numero qualquer: ");
+  if (number % 2 === 0) {
+  console.log("É par");
+ } else {
+  console.log("É impar");
+ }
+  return number;
+}
+ ParOuImpar();(number)
+
