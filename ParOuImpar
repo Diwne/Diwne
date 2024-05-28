@@ -7,5 +7,5 @@ function ParOuImpar() {
  }
   return number;
 }
- ParOuImpar();(number)
+ ParOuImpar();
 
